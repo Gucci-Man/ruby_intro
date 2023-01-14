@@ -1,2 +1,2 @@
 # README #
-This is repo for Intro to Ruby book chapters and exercises 
+This is a repo containing the chapters and exercises for "Intro to Ruby" book
